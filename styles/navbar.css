@@ -1,0 +1,13 @@
+#navbar_div {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid;
+  color: green;
+  background-color: rgb(198, 243, 198);
+}
+#option {
+  color: forestgreen;
+
+  display: flex;
+  gap: 15px;
+}
